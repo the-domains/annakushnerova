@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Anna Kushnerova
-    url: 'https://www.youtube.com/channel/UCyf3bqloR4xr_N1VKR7QdYg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=v-Q7FFRs1cE'
+inLanguage: en
 keywords:
   - duration
   - kushnerova
@@ -21,7 +16,13 @@ keywords:
   - movieclips
   - theory
 description: Uploaded by Anna Kushnerova on 2013-12-26.
-inLanguage: en
+datePublished: '2016-08-04T03:52:38.903Z'
+dateModified: '2016-08-04T03:51:45.923Z'
+author:
+  - name: Anna Kushnerova
+    url: 'https://www.youtube.com/channel/UCyf3bqloR4xr_N1VKR7QdYg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=v-Q7FFRs1cE&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=v-Q7FFRs1cE'
 title: MOTHER AND DAUGHTER
-datePublished: '2016-08-04T03:42:13.350Z'
-dateModified: '2016-08-04T03:38:59.102Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-mother-and-daughter.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
