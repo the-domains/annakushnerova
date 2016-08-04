@@ -14,14 +14,16 @@ description: omni theater
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=dcK9-FP1Sd8'
 title: OMNI THEATER THE GOLDEN LOCALE
-datePublished: '2016-08-04T03:42:13.623Z'
-dateModified: '2016-08-04T03:38:11.896Z'
+datePublished: '2016-08-04T03:52:23.087Z'
+dateModified: '2016-08-04T03:51:41.426Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-omni-theater-the-golden-locale.md
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+authors: []
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
