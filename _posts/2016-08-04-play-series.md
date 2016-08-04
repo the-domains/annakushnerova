@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=w7DwI6wBpuE'
+hasPage: true
+inNav: true
 inLanguage: en
 keywords:
   - batman
@@ -16,8 +15,8 @@ keywords:
   - walkthrough
   - play
 description: PLAY SERIES CLAY SCULPTURE VIDEO
-datePublished: '2016-08-04T03:49:04.269Z'
-dateModified: '2016-08-04T03:48:47.410Z'
+datePublished: '2016-08-04T03:54:57.831Z'
+dateModified: '2016-08-04T03:54:51.643Z'
 author:
   - name: Anna Kushnerova
     url: 'https://www.youtube.com/channel/UCyf3bqloR4xr_N1VKR7QdYg'
@@ -70,6 +69,7 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
+url: play-series/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
