@@ -1,17 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=xiSOJJ9mmbo'
+inLanguage: fr
+keywords: []
+description: ''
+datePublished: '2016-08-04T03:35:55.831Z'
+dateModified: '2016-08-04T03:35:37.486Z'
 author:
   - name: Anna Kushnerova
     url: 'https://www.youtube.com/channel/UCyf3bqloR4xr_N1VKR7QdYg'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
-keywords: []
-description: ''
-inLanguage: fr
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=xiSOJJ9mmbo&feature=applinks'
     type: ios
@@ -49,16 +50,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=xiSOJJ9mmbo'
 title: spinning love
-datePublished: '2016-08-04T03:34:49.848Z'
-dateModified: '2016-08-04T03:29:59.923Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-spinning-love.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
