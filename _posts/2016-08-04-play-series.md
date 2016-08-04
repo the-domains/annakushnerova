@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Anna Kushnerova
-    url: 'https://www.youtube.com/channel/UCyf3bqloR4xr_N1VKR7QdYg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=w7DwI6wBpuE'
+inLanguage: en
 keywords:
   - batman
   - telltale
@@ -21,7 +16,13 @@ keywords:
   - walkthrough
   - play
 description: PLAY SERIES CLAY SCULPTURE VIDEO
-inLanguage: en
+datePublished: '2016-08-04T03:41:25.215Z'
+dateModified: '2016-08-04T03:41:13.693Z'
+author:
+  - name: Anna Kushnerova
+    url: 'https://www.youtube.com/channel/UCyf3bqloR4xr_N1VKR7QdYg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=w7DwI6wBpuE&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=w7DwI6wBpuE'
 title: PLAY SERIES
-datePublished: '2016-08-04T03:40:25.628Z'
-dateModified: '2016-08-04T03:39:36.441Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-play-series.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
