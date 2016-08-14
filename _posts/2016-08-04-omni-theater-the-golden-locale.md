@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-14T08:15:13.751Z'
+datePublished: '2016-08-14T08:15:30.187Z'
 sourcePath: _posts/2016-08-04-omni-theater-the-golden-locale.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=dcK9-FP1Sd8'
@@ -12,14 +12,10 @@ author:
     url: 'https://www.youtube.com/channel/UCyf3bqloR4xr_N1VKR7QdYg'
     avatar: {}
 via: {}
-dateModified: '2016-08-14T08:15:13.075Z'
+dateModified: '2016-08-14T08:15:28.459Z'
 title: OMNI THEATER THE GOLDEN LOCALE
 app_links: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
+publisher: {}
 description: 'Unglazed Stoneware & Silk 40cm x 45cm x 30cm, Video (2014) '
 inLanguage: null
 inNav: false
