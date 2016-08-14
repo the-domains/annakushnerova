@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-14T08:10:42.620Z'
+datePublished: '2016-08-14T08:13:54.837Z'
 sourcePath: _posts/2016-08-04-little-riddle-session.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=aHVWSw2Xmwc'
@@ -22,7 +22,7 @@ author:
     url: 'https://www.youtube.com/channel/UCyf3bqloR4xr_N1VKR7QdYg'
     avatar: {}
 via: {}
-dateModified: '2016-08-14T08:10:41.853Z'
+dateModified: '2016-08-14T08:13:54.201Z'
 title: LITTLE RIDDLE SESSION
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=aHVWSw2Xmwc&feature=applinks'
@@ -62,7 +62,7 @@ app_links:
     namespace: google
     type: ios
 publisher: {}
-description: Uploaded by Anna Kushnerova on 2013-12-26.
+description: Video (2013)
 inLanguage: en
 inNav: false
 starred: true
