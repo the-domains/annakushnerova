@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-14T08:12:13.092Z'
+datePublished: '2016-08-14T08:13:32.859Z'
 sourcePath: _posts/2016-08-04-mother-and-daughter.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=v-Q7FFRs1cE'
@@ -22,7 +22,7 @@ author:
     url: 'https://www.youtube.com/channel/UCyf3bqloR4xr_N1VKR7QdYg'
     avatar: {}
 via: {}
-dateModified: '2016-08-14T08:12:12.428Z'
+dateModified: '2016-08-14T08:13:32.254Z'
 title: MOTHER AND DAUGHTER
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=v-Q7FFRs1cE&feature=applinks'
@@ -61,12 +61,8 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-description: Uploaded by Anna Kushnerova on 2013-12-26.
+publisher: {}
+description: 'Wax Sculpture 23cm x 5cm x 5cm, Video (2013)'
 inLanguage: en
 inNav: false
 starred: true
