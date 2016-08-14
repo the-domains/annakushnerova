@@ -1,7 +1,7 @@
 name: annakushnerova
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.49381
+layout_spectrum: 0.9884838487487286
+typography_spectrum: 0.40035169501788914
 title: annakushnerova
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1e1e1e'
-    - '#f1eee9'
-    - '#c9c6bd'
-    - '#3b413d'
-    - '#67726e'
-  brandStrength: 0.815218583215028
-  lightness: 0.5243188652675599
-  saturation: 0.8936950957868248
-  rhythmicContrast: 0.25
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+  brandStrength: 0.4895718526095152
+  lightness: 0.930828110082075
+  saturation: 0.7588939291890711
+  rhythmicContrast: 0.8735729705076665
 purpose: []
