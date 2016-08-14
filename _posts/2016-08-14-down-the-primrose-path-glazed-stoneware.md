@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-14T08:24:07.015Z'
+datePublished: '2016-08-14T08:26:26.862Z'
 author: []
 via: {}
-dateModified: '2016-08-14T08:22:16.219Z'
+dateModified: '2016-08-14T08:26:26.255Z'
 title: ''
 publisher: {}
 description: 'DOWN THE PRIMROSE PATH, glazed stoneware '
-starred: false
 sourcePath: _posts/2016-08-14-down-the-primrose-path-glazed-stoneware.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
